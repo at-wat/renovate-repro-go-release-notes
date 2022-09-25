@@ -1,6 +1,6 @@
 module github.com/at-wat/renovate-repro-go-github-major
 
-go 1.17
+go 1.19
 
 require github.com/at-wat/mqtt-go v0.15.0
 
